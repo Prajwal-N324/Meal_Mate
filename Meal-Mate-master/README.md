@@ -1,4 +1,3 @@
-
 > FreshFoods is a online food & grocery delivery service app built with Django with Esewa payment integration.
 
 We have used ``Faker`` to generate fake data automatically.
@@ -36,5 +35,4 @@ To get a local copy up and running follow these simple example steps.
 ## Generate fake data
 
 Make use of management command `python manage.py createdata`  to generate fake categories and products automatically.
-
 
